@@ -13,6 +13,18 @@ This will be of extremely-limited interest since:
 
 1) It's Dvorak.
 
+- [Get an Atreus here.](https://shop.keyboard.io/products/keyboardio-atreus)
+  (Not sponsored / affiliated.)
+
+  - I have Atreus boards each with Speed Silver (liner /
+    quiet) and Speed Bronze (clicky) switches; they're both
+    great, and I switch depending on my mood.
+
+  - Here's some weak evidence that I have a couple of Atreus
+    boards (or at least a photo of a couple of them):
+
+    ![a pair of pretty keyboards](./images/pair-of-atreus-boards.jpg)
+
 ## The Layout
 
 - Here's where you can get the [layout file as
@@ -46,3 +58,6 @@ Nobody asked but ... If you're buying an Atreus:
   you're using a layered ergo mech board, you *know* that
   you want a carrying case for it -- it has a belt loop,
   FFS!
+
+- use the `Any` keycap ... why wouldn't you want a keyboard
+  with a *literal* `Any` key!?
